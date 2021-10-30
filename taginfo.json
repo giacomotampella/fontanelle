@@ -1,0 +1,20 @@
+{
+  "data_format": 1,
+  "data_url": "https://raw.githubusercontent.com/giacomotampella/fontanelle/master/taginfo.json",
+  "project": {
+    "name": "Fontanelle",
+    "description": "Fontanelle vicino a te",
+    "project_url": "inserire qui il sito",
+    "doc_url": "https://github.com/giacomotampella/fontanelle",
+    "icon_url": "",
+    "contact_name": "Giacomo Tampella",
+    "contact_email": "tampella@icloud.com"
+  },
+  "tags": [
+    {
+      "key": "amenity",
+      "value": "drinking_water",
+      "object_types": ["node"]
+    }
+  ]
+}
